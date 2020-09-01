@@ -1,0 +1,16 @@
+git config --list //to know username and password
+
+//Configuring or updating git config
+git config --global user.name "username, password"
+git config --global user.email "useremailid"
+
+//Creating project
+1. create directory
+2. git init
+3. ls -la //check hidden files in folder
+4. git status
+5. create text file inside project folder
+6. git add . or git add sample.txt
+7. git status
+8. git commit -m 'My first git commit'
+9. modify the file and commit again
