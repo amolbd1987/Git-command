@@ -16,3 +16,8 @@ git config --global user.email "useremailid"
 9. modify the file and commit again
  git log 
  git log --author="amol.bandal"
+ 
+ Git workflow
+ 1. Working area
+ 2. Staged Area => after git add 
+ 3. Repository => after commit
