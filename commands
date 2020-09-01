@@ -14,3 +14,5 @@ git config --global user.email "useremailid"
 7. git status
 8. git commit -m 'My first git commit'
 9. modify the file and commit again
+ git log 
+ git log --author="amol.bandal"
