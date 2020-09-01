@@ -21,3 +21,8 @@ git config --global user.email "useremailid"
  1. Working area
  2. Staged Area => after git add 
  3. Repository => after commit
+ 
+ git diff  =>working area and staged
+ git diff --staged =>staged and local repository
+
+git rm filename =>delete file
