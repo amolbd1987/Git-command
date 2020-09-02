@@ -26,3 +26,10 @@ git config --global user.email "useremailid"
  git diff --staged =>staged and local repository
 
 git rm filename =>delete file
+
+how to push local repository to git
+create repository on git and same name as on local 
+git init
+git remote add origin "git@github.com:amolbd1987/Git-command.git"
+git pull origin master
+git push origin master
